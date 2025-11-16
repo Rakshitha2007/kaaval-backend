@@ -4,5 +4,5 @@ deepface
 opencv-python-headless
 numpy
 pillow
-tenserflow==2.15.0
+tenserflow-cpu==2.15.0
 tf-keras
